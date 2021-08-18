@@ -4,4 +4,5 @@ if(ans=='yes')
 {
   alert ("we-are-opening-your-mail");
 window.open(`https://mail.google.com/mail/u/0/#inbox`);
+var time=new Date();
 }
