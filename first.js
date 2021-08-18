@@ -6,5 +6,5 @@ if(ans=='yes')
 window.open(`https://mail.google.com/mail/u/0/#inbox`);
 var time=new Date();
 document.write(time);
-
+console.log('branching');
 }
