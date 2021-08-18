@@ -7,4 +7,6 @@ window.open(`https://mail.google.com/mail/u/0/#inbox`);
 var time=new Date();
 document.write(time);
 var name=a;
+var id='101';
+var dob='1.1.2000';
 }
